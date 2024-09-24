@@ -38,6 +38,7 @@ a {
 /* main container area beneath menu */
 main {
     background: rgb(67, 47, 179);
+    color: aquamarine;
     display: flex;
 }
 .sidebar {
