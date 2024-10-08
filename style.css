@@ -54,8 +54,8 @@ main {
 }
 
 /* portfolio styles */
-#interests {
-    border: 4px silver ridge;
+#portfolio {
+    border: 4px rgb(203, 206, 55) ridge;
     padding: 8px;
 }
 h2, h3 {
